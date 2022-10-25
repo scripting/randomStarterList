@@ -1,0 +1,11 @@
+{
+	"name": "randomstarterlist",
+	"description": "Generate a new starter OPML file for new FeedLand users.",
+	"author": "Dave Winer <dave@scripting.com>",
+	"license": "MIT",
+	"version": "0.4.0",
+	"dependencies" : {
+		"daveutils": "*",
+		"opml": "*"
+		} 
+	}
