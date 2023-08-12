@@ -12,7 +12,7 @@ Uses the OPML package for Node to make this utility simple to write.
 
 * First it reads an <a href="http://feedland.org/opml?screenname=davewiner&catname=starters">OPML file</a> from FeedLand. All the feeds I've put into my <i>starters</i> category. 
 
-* It builds a new OPML file, with a random selection of feeds from the first one. The number of feeds is random too, a number between 25 and 50.
+* It builds a new OPML file, with a random selection of feeds chosen from the first one. The number of feeds is random too, a number between 25 and 50.
 
 * It saves the file in a folder on my local system that's managed by my <a href="http://publicfolder.io/">Public Folder app</a>. 
 

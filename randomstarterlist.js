@@ -6,7 +6,7 @@ const opml = require ("opml");
 
 var config = {
 	urlStartersCategory: "http://feedland.org/opml?screenname=davewiner&catname=starters",
-	destFilePath: "/Users/davewiner/publicFolder/feedland/subscriptionLists/starterfeeds.opml"
+	destFilePath: "/Users/davewiner/Dropbox/portableDave/publicFolder/feedland/subscriptionLists/starterfeeds.opml"
 	}
 
 function buildRandomOutline () {
